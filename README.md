@@ -12,7 +12,7 @@ FullStackOpen es un curso diseñado para aprender desarrollo web completo, cubri
 - Notas personales sobre los temas cubiertos.
 
 ## Estructura del Repositorio
-1. **Sección 1**: Fundamentos de las aplicaciones web.
+1. **Sección 0**: Fundamentos de las aplicaciones web.
 
 ## Autor
 - **Sebastián González**  
